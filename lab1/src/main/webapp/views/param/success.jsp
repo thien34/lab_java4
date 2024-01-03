@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-<h2>Ket qua: ${msgName}</h2>
+<h2>Ket qua: ${requestScope.msgName}</h2>
 </body>
 </html>

@@ -7,7 +7,7 @@
 <body>
 <h2>Ket qua</h2>
 <br>
-<h3>Chu vi: ${p}</h3>
-<h3>Dien tich: ${s}</h3>
+<h3>Chu vi: ${requestScope.p}</h3>
+<h3>Dien tich: ${requestScope.s}</h3>
 </body>
 </html>
